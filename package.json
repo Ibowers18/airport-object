@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Ibowers18/airport-object#readme",
   "dependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "keywords": []
 }
