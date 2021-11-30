@@ -4,9 +4,10 @@
   "description": "Multiverse Github projects",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --coverage",
     "test:report": "jest --coverage=true"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ibowers18/airport-object.git"
